@@ -1,0 +1,24 @@
+---
+title: "diegovss"
+---
+
+## About me
+
+I'm a **Software Engineer** at the [Critical Techworks](https://www.criticaltechworks.com/). I am currently working with high scalable distributed systems (Java, Scala, Spring Boot, Kafka, AWS).
+
+Originally from Fortaleza (Brazil), I have a degree in Computer Science from the [State University of Ceará](https://www.uece.br/) (2010), and a Master's in Computer Science from the [Federal University of Ceará](https://www.ufc.br/)  (2012).
+
+In my free time, I love playing piano, dancing [Forró](https://en.wikipedia.org/wiki/Forr%C3%B3), studying languages, and podcasting.
+<!--I am also [hemophilic](https://en.wikipedia.org/wiki/Haemophilia), and I'm passionate about promoting understanding and raising awareness of rare genetic disorders.-->
+
+<!--:::
+
+### Science, Software, and Society
+
+At the intersection of Data Science and Interdisciplinary Oceanography, my research leverages high-performance computational tools to analyze, model, and visualize oceanic and atmospheric processes. My expertise spans a diverse range of topics, from ocean vortices and extreme weather events to oceanographic influences on human populations and marine wildlife.
+
+I am also deeply committed to scientific outreach and education, ensuring that oceanography is accessible to a wider audience. Collaboration is at the core of my work, and I actively engage with scientists, students, and stakeholders to advance interdisciplinary ocean science and promote open, applied, data-driven discovery.
+
+[Learn more about my research &rarr;](research.qmd)-->
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
