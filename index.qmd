@@ -1,5 +1,5 @@
 ---
-title: "diegovss"
+title: "Diego"
 ---
 
 ## About me
@@ -10,7 +10,7 @@ Originally from Fortaleza (Brazil), I have a degree in Computer Science from the
 
 In my free time, I love playing piano, dancing [Forró](https://en.wikipedia.org/wiki/Forr%C3%B3), studying languages, and podcasting.
 
-By the way, you can take a look at my podcast about languages, travel and cultures: [Diversilíngua](https://youtube.com/@Diversilingua)
+By the way, feel free to check out my podcast about languages, travel, and cultures: [Diversilíngua](https://youtube.com/@Diversilingua)
 <!--I am also [hemophilic](https://en.wikipedia.org/wiki/Haemophilia), and I'm passionate about promoting understanding and raising awareness of rare genetic disorders.-->
 
 <!--:::
