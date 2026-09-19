@@ -1,8 +1,8 @@
 ---
 title: "Diego"
 subtitle: "Software Engineer"
-about: broadside
-    template: jolla
+about: 
+    template: trestles
     links:
         - icon: github
           text: Github
