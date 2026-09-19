@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
     "section": "",
-    "text": "About this site"
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
     "objectID": "index.html",
@@ -19,5 +19,19 @@
     "title": "Diego",
     "section": "",
     "text": "I’m a Software Engineer at the Critical Techworks. I am currently working with high scalable distributed systems (Java, Scala, Spring Boot, Kafka, AWS).\nOriginally from Fortaleza (Brazil), I have a degree in Computer Science from the State University of Ceará (2010), and a Master’s in Computer Science from the Federal University of Ceará (2012).\nIn my free time, I love playing piano, dancing Forró, studying languages, and podcasting.\nBy the way, feel free to check out my podcast about languages, travel, and cultures: Diversilíngua \n\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Welcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nSep 19, 2026\n\n\nDiego\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   }
 ]
