@@ -9,7 +9,8 @@
   {
     "listing": "/blog.html",
     "items": [
-      "/posts/welcome/index.html"
+      "/posts/welcome/index.html",
+      "/posts/aprenderidiomas/index.html"
     ]
   }
 ]
