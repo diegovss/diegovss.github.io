@@ -1,6 +1,12 @@
 ---
 title: "Diego"
 subtitle: "Software Engineer"
+about: broadside
+    template: jolla
+    links:
+        - icon: github
+          text: Github
+          href: https://github.com/diegovss
 ---
 
 ## About me
